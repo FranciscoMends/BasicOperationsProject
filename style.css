@@ -1,0 +1,52 @@
+body{
+    color: brown;
+    background-color: black;
+    font: normal 12pt Arial;
+}
+input#n1{
+    width: 80px;
+    height: 30px;
+    font: normal 10pt Arial;
+    margin-left: 28px;
+}
+input#n2{
+    width: 80px;
+    height: 30px;
+    font: normal 10pt Arial; 
+}
+input#s1{
+    width: 80px;
+    height: 30px;
+    font: normal 10pt;
+    margin-left: 28px;
+}
+input#s2{
+    width: 80px;
+    height: 30px;
+    font: normal 10pt;
+}
+input#x1{
+    width: 80px;
+    height: 30px;
+    font: normal 10pt Arial;
+    margin-left: 28px;
+}
+input#x2{
+    width: 80px;
+    height: 30px;
+    font: normal 10pt Arial;
+}
+input#d1{
+    width: 80px;
+    height: 30px;
+    font: normal 10pt Arial;
+    margin-left: 28px;
+}
+input#d2{
+    width: 80px;
+    height: 30px;
+    font: normal 10pt Arial;
+}
+div{
+    margin-top: 15px;
+}
